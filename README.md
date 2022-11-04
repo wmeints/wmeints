@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Tasty beans](https://github.com/wmeints/tasty-beans)
 
-- 🌱 I’m currently learning **Marten, Jasper**
+- 🌱 I’m currently learning **Apache Airflow, Ray, Dask, and ArgoCD**
 
 - 📝 I regularly write articles on [https://fizzylogic.nl/](https://fizzylogic.nl/)
 
-- 💬 Ask me about **MLOps, machine-Learning, and microservices**
+- 💬 Ask me about **MLOps, machine-Learning, and deep learning**
 
 - 📫 How to reach me **willem.meints@gmail.com**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Interesting projects:</h3>
 
-- [Tasty Beans](/wmeints/tasty-beans) - Microservices in .NET
+- [DVC demo](/wmeints/dvc-demo) - Using DVC to set up ML experiments
 - [EF Core with DDD](/wmeints/efcore-ddd-demo) - Using Entity Framework Core in a DDD-style application
 - [Authenticating users with WebAuthn](/wmeints/webauthn-sample) - Authenticating without a password in ASP.NET Core using WebAuthn and FIDO2
 
