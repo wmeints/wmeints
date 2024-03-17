@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Willem Meints</h1>
 <h3 align="center">Chief AI Architect, Author, Microsoft MVP</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Langchain**
 
 - 📝 I regularly write articles on [https://fizzylogic.nl/](https://fizzylogic.nl/)
 
-- 💬 Ask me about **MLOps, machine-Learning, and deep learning**
+- 💬 Ask me about **LLMOps, MLOps, machine-Learning, and deep learning**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/wmeints/](https://www.linkedin.com/in/wmeints/)
 
-- ⚡ Fun fact **I've started learning how to fly drones**
+- ⚡ Fun fact **I've started a new book. Details coming soon!**
 
 <h3 align="left">Interesting projects:</h3>
 
