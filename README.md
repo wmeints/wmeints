@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Willem Meints</h1>
 <h3 align="center">Chief AI Architect, Author, Microsoft MVP</h3>
 
-- 🌱 I’m currently learning **Langchain**
+- 🌱 I’m currently learning **Copilot Workspace**
 
 - 📝 I regularly write articles on [https://fizzylogic.nl/](https://fizzylogic.nl/)
 
-- 💬 Ask me about **LLMOps, MLOps, machine-Learning, and deep learning**
+- 💬 Ask me about **LLMOps, Generative AI, Python**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/wmeints/](https://www.linkedin.com/in/wmeints/)
-
-- ⚡ Fun fact **I've started a new book. Details coming soon!**
 
 <h3 align="left">Interesting projects:</h3>
 
 - [My AstroNvim configuration](https://github.com/wmeints/astronvim-config) - My personal configuration files for neovim
-- [Notus Agent Demo](https://github.com/wmeints/notus-model-demo) - Shows how to use the open-source Notus 7B LLM to build an agent.
+- [Promptyard](https://github.com/wmeints/promptyard) - A new prototype I'm working on
 
 <h3 align="left">Connect with me:</h3>
 <ul align="left">
