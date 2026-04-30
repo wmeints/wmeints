@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Willem Meints</h1>
 <h3 align="center">Chief AI Architect, Author, Microsoft MVP</h3>
 
-- 🌱 I’m currently learning **Copilot Workspace**
+- 🌱 I’m currently learning **Go**
 
-- 📝 I regularly write articles on [https://fizzylogic.nl/](https://fizzylogic.nl/)
+- 📝 I regularly write articles on [https://beyondautocomplete.nl/](https://beyondautocomplete.nl/)
 
 - 💬 Ask me about **LLMOps, Generative AI, Python**
 
@@ -12,7 +12,6 @@
 <h3 align="left">Interesting projects:</h3>
 
 - [My AstroNvim configuration](https://github.com/wmeints/astronvim-config) - My personal configuration files for neovim
-- [Promptyard](https://github.com/wmeints/promptyard) - A new prototype I'm working on
 
 <h3 align="left">Connect with me:</h3>
 <ul align="left">
