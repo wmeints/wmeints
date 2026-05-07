@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Willem Meints</h1>
-<h3 align="center">Chief AI Architect, Author, Microsoft MVP</h3>
+<h3 align="center">Chief AI Architect, Author</h3>
 
 - 🌱 I’m currently learning **Go**
 
